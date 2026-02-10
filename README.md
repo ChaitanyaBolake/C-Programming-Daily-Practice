@@ -7,10 +7,12 @@ I am learning C from scratch and uploading programs topic-wise.
 - Basics
 - Conditions
 - Loops
-- Functions (coming soon)
+- Functions
+- Arrays
+- Pointers (coming soon)
 
 ## Goal
 To build strong fundamentals in C for Embedded Software Development.
 
 ## Author
-Chaitanya R. Bolake
+Chaitanya
