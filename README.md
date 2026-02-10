@@ -1,2 +1,16 @@
-# C-Programming-Daily-Practice
-Daily C programs from basics to advanced
+# C Programming – Daily Practice
+
+This repository contains my daily C programming practice.
+I am learning C from scratch and uploading programs topic-wise.
+
+## Topics Covered
+- Basics
+- Conditions
+- Loops
+- Functions (coming soon)
+
+## Goal
+To build strong fundamentals in C for Embedded Software Development.
+
+## Author
+Chaitanya R. Bolake
