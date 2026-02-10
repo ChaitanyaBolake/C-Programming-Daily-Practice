@@ -15,4 +15,4 @@ I am learning C from scratch and uploading programs topic-wise.
 To build strong fundamentals in C for Embedded Software Development.
 
 ## Author
-Chaitanya
+Chaitanya R. Bolake
